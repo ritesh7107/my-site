@@ -45,9 +45,9 @@ margin:0;
 {
 margin:100px 0;
 }
-.bottom-container
+.bottom-bar
 {
-
+//text-align:center;
 	
 }
 .bottom-cloud{
@@ -137,4 +137,18 @@ margin:auto;
 .contact-msj{
 width:40%;
 margin:40px auto 90px;
+}
+.author{
+float:left;
+font-size:0.1rem;
+margin-left:auto;
+margin-right:auto;
+}
+.new1{
+margin:auto;
+color:#EAF6F6;
+font-size:0.1rem;
+}
+.new{
+margin:5px;
 }
